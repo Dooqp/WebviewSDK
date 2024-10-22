@@ -1,0 +1,22 @@
+{
+  "name": "WebviewSDK",
+  "version": "0.1.0",
+  "summary": "A short description of WebviewSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/16265928/WebviewSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "16265928": "srpalkn@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/16265928/WebviewSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "WebviewSDK/Classes/**/*"
+}
